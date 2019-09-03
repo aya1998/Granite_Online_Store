@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GraniteOnlineStrore",
+    "\\GraniteOnlineStrore\\Areas",
+    "\\GraniteOnlineStrore\\Areas\\Identity",
+    "\\GraniteOnlineStrore\\bin",
+    "\\GraniteOnlineStrore\\Data",
+    "\\GraniteOnlineStrore\\Models",
+    "\\GraniteOnlineStrore\\obj",
+    "\\GraniteOnlineStrore\\Properties",
+    "\\GraniteOnlineStrore\\Views",
+    "\\GraniteOnlineStrore\\wwwroot"
   ],
   "PreviewInSolutionExplorer": false
 }

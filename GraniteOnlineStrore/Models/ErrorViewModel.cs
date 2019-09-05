@@ -1,6 +1,6 @@
 using System;
 
-namespace GraniteOnlineStrore.Models
+namespace GraniteOnlineStore.Models
 {
     public class ErrorViewModel
     {

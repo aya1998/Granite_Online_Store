@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace GraniteOnlineStrore.Data.Migrations
+namespace GraniteOnlineStore.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
